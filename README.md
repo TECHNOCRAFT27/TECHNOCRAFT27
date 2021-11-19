@@ -22,9 +22,11 @@ JAVA SCRIPT  <br>
 
 Social sites 
 
-youtube:-https://www.youtube.com/channel/UCh2CLlvCAixi-QEtuNClSNA #
-Discord server:-https://discord.com/invite/Gw6ZbUMmJJ #
-mygame:-https://technocraft27.itch.io/ #
-hacker Earth:-https://www.hackerearth.com/@pramilakhopade2908 #
-Music:-https://soundcloud.com/technocraft #
+youtube:-https://www.youtube.com/channel/UCh2CLlvCAixi-QEtuNClSNA <br>
+Discord server:-https://discord.com/invite/Gw6ZbUMmJJ <br>
+mygame:-https://technocraft27.itch.io/ <br>
+hacker Earth:-https://www.hackerearth.com/@pramilakhopade2908 <br>
+Music:-https://soundcloud.com/technocraft <br>
+<br>
+Thanks for time.....
 
