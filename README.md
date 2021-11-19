@@ -1,7 +1,8 @@
-### Hi there 👋
+
+![image](https://user-images.githubusercontent.com/81235820/142647812-a8eb06ac-546d-4a3e-b207-72efc1b30d31.png)
 
 
-**TECHNOCRAFT27/TECHNOCRAFT27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
