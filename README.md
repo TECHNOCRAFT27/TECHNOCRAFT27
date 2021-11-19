@@ -1,11 +1,16 @@
 
 ![image](https://user-images.githubusercontent.com/81235820/142648886-70493cb5-de33-41d9-a480-a10e8726fa1c.png)
 
+hello, world best coder I am a game, website and application developer and designer, UI designer, graphic designer. 
+Experience in:- 
+UNREAL ENGINE 
+FT STUDIO
+PHOTOSHOP
+BLENDER
 
-
-
-
-Here are some ideas to get you started:
+Language I know
+PYTHON
+JAVA SCRIPT 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
