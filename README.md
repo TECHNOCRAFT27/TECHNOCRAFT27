@@ -49,7 +49,7 @@ Experience building responsive, interactive websites tailored to user experience
 ### Social Links 🔗
 
 - [YouTube](https://www.youtube.com/channel/UCh2CLlvCAixi-QEtuNClSNA) 📺
-- [Discord Server](https://discord.com/invite/Gw6ZbUMmJJ) 🎉
+- [Discord Server](https://discord.gg/PVVJQT5K) 🎉
 - [My Games on Itch.io](https://technocraft27.itch.io/) 🎮
 - [Hacker Earth Profile](https://www.hackerearth.com/@pramilakhopade2908) 💻
 - [SoundCloud Music](https://soundcloud.com/technocraft) 🎶
