@@ -32,7 +32,7 @@ I’m committed to helping bring your dream **website, application,** or **game*
 Creating and customizing games with advanced graphics and smooth gameplay.
 
 **AI Development** 🤖  
-Built Caroline, a multilingual AI assistant with advanced search and messaging capabilities.
+Built Caroline, a AI assistant with advanced search and messaging capabilities.
 
 **Full-Stack Web Development** 💻  
 Experience building responsive, interactive websites tailored to user experience and design trends.
